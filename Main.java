@@ -17,5 +17,14 @@ public class Main {
         Product product3=c3.factoryProduct();
         product3.display();
 
+
+//        // compairing two different string
+//        String str="abc";
+//        String str2=new String("abc");
+//        String str3="abc";
+//        System.out.println(str==str2);
+//        System.out.println(str.equals(str2));
+//        System.out.println(str==str3);
+
     }
 }
